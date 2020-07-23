@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(1, 12, 15);
+
+}
+.col{
+    height: 100vh;
+    padding-top: 30%;
+ text-align: center;
+ color: seashell;
+ text-shadow: black;
+
+}
+.violet{
+    background-color: violet;
+   
+}
+.indigo{
+    background-color: indigo;
+   
+}
+.blue{
+    background-color: blue;
+   
+}
+.green{
+    background-color: green;
+   
+}
+.yellow{
+    background-color: yellow;
+    
+}
+.orange{
+    background-color: orange;
+   
+    
+}
+.red{
+    background-color: red;
+    
+}
+/* button{
+    /* height: 40px; */
+    /* margin: 4px;
+    padding: 3px;
+    display: block;
+    border-radius: 6px;
+    border-style: none;
+    outline: none;
+    height: 50px;
+    width: 100%;
+    background-color: rgb(187, 255, 131);
+    
+} */
+
+/* .sa{
+    background-color: rgb(222, 252, 90);
+    width: 300px;
+}
+.ri{
+    width: 250px;
+}
+.ga{
+    background-color: rgb(131, 230, 92);
+    width: 200px;
+}
+.ma{
+    background-color: crimson;
+}
+.pa{
+    background-color: rgb(117, 238, 238);
+    width: 170px;
+}
+.da{
+    background-color: darkcyan;
+    width: 120px;
+}
+.ni{
+    background-color:blueviolet ;
+}
+  */
